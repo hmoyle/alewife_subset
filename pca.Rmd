@@ -1,0 +1,78 @@
+---
+title: "Principal Components Analysis"
+output: html_notebook
+---
+
+
+This is a subset of the data without any blueback, East Grand Lake, Lake Champlain, Pattagansett Lake, Quonnipaug Lake, or Rogers Lake samples.
+
+
+```{r libraries}
+library(tidyverse)
+library(RcppCNPy)
+library(ggrepel)
+```
+
+
+```{r data_organization}
+c <- as.matrix(read.table("data/alewife-subset-04082024.output.cov"))
+metadata <- read_csv("data/alewife_subset_metadata.csv")
+
+e <- eigen(c)
+t <- tibble(PC1 = e$vectors[,1],
+            PC2 = e$vectors[,2])
+
+data <- add_column(t, metadata)
+```
+
+
+```{r visualization}
+wn_colors <- c(`Otisco Lake` = "#242b35",
+               `Seneca Lake` = "#869ca8", 
+               `Roanoke River` = "#eceeed",
+               `Lake Ontario` = "#c3aaad",
+               `Lake Superior` = "#ac9b7c",
+               `Cayuga Lake` = "#a39faa",
+               `Canandaigua Lake` = "#c0b6ac",
+               `Lake Michigan` = "#adc0b8",
+               `Blackman Stream` = "#a2878a",
+               `Hudson River` = "#b6bc9f",
+               `Miramichi River` = "#ecc2a3",
+               `Saco River` = "#636c62",
+               `Choptank River` = "#3b3a35")
+
+region_shapes <- c(`Great Lakes` = 22,
+                   `South Atlantic Gulf` = 23,
+                   `Northern New England` = 24,
+                   `Mid-Atlantic` = 25,
+                   `Canada` = 21)
+```
+
+
+```{r plot}
+plot <- ggplot(data = data, 
+               mapping = aes(x = PC1,
+                             y = PC2,
+                             shape = region,
+                             fill = water_name)) +
+  geom_point(size = 4.5) +
+  theme_bw() +
+  theme(panel.grid.minor = element_blank()) +
+  geom_point(stroke = 0.05,
+             alpha = 0.75,
+             size = 5) +
+  scale_fill_manual(values = wn_colors) +
+  scale_shape_manual(values = region_shapes) +
+  guides(fill = guide_legend(override.aes = list(shape = 22,
+                                                 stroke = 0.5,
+                                                 size = 3)),
+         shape = guide_legend(override.aes = list(stroke = 0.5,
+                                                  size = 3))) +
+  labs(shape = "Water Resource Region",
+       fill = "Water Name") +
+  geom_text_repel(aes(label = water_name),
+                  max.overlaps = 75)
+plot
+```
+
+

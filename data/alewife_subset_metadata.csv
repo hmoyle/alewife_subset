@@ -1,0 +1,66 @@
+﻿sample,NMFS_DNA_ID,box_ID,box_position,sample_ID,batch_ID,genus,species,state,watershed,water_name,abbr_wn,region,abbr_r
+s0004,AP027210,AP287,3F,OL_0004,4478,Alosa,pseudoharengus,New York,Finger Lakes,Otisco Lake,OTIL,Great Lakes,GRL
+s0005,AP027216,AP287,4D,SL_0039,4478,Alosa,pseudoharengus,New York,Finger Lakes,Seneca Lake,SENL,Great Lakes,GRL
+s0006,AP027217,AP287,4E,SL_0042,4478,Alosa,pseudoharengus,New York,Finger Lakes,Seneca Lake,SENL,Great Lakes,GRL
+s0009,AP027247,AP287,8C,KLVA10,4478,Alosa,hybrid,North Carolina,Roanoke River,Roanoke River,ROAR,South Atlantic Gulf,SAG
+s0010,AP027249,AP287,8E,14LO_0007,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0011,AP027250,AP287,8F,14LO_0012,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0012,AP027255,AP287,9C,LS_0001,4478,Alosa,pseudoharengus,Wisconsin,Great Lakes,Lake Superior,LSUP,Great Lakes,GRL
+s0013,AP028629,AP302,1A,OL_0003,4478,Alosa,pseudoharengus,New York,Finger Lakes,Otisco Lake,OTIL,Great Lakes,GRL
+s0014,AP028630,AP302,1B,OL_0008,4478,Alosa,pseudoharengus,New York,Finger Lakes,Otisco Lake,OTIL,Great Lakes,GRL
+s0015,AP028631,AP302,1C,OL_0009,4478,Alosa,pseudoharengus,New York,Finger Lakes,Otisco Lake,OTIL,Great Lakes,GRL
+s0016,AP028632,AP302,1D,SL_0040,4478,Alosa,pseudoharengus,New York,Finger Lakes,Seneca Lake,SENL,Great Lakes,GRL
+s0017,AP028634,AP302,1F,156,5618,Alosa,pseudoharengus,New York,Finger Lakes,Cayuga Lake,CAYL,Great Lakes,GRL
+s0018,AP028635,AP302,1G,157,5618,Alosa,pseudoharengus,New York,Finger Lakes,Cayuga Lake,CAYL,Great Lakes,GRL
+s0019,AP028636,AP302,1H,161,5618,Alosa,pseudoharengus,New York,Finger Lakes,Cayuga Lake,CAYL,Great Lakes,GRL
+s0020,AP028637,AP302,2A,162,5618,Alosa,pseudoharengus,New York,Finger Lakes,Cayuga Lake,CAYL,Great Lakes,GRL
+s0021,AP028639,AP302,2C,CL_0010,4478,Alosa,pseudoharengus,New York,Finger Lakes,Canandaigua Lake,CANL,Great Lakes,GRL
+s0022,AP028640,AP302,2D,CL_0011,4478,Alosa,pseudoharengus,New York,Finger Lakes,Canandaigua Lake,CANL,Great Lakes,GRL
+s0023,AP028641,AP302,2E,CL_0012,4478,Alosa,pseudoharengus,New York,Finger Lakes,Canandaigua Lake,CANL,Great Lakes,GRL
+s0029,AP028647,AP302,3C,LS_0003,4478,Alosa,pseudoharengus,Wisconsin,Great Lakes,Lake Superior,LSUP,Great Lakes,GRL
+s0030,AP028648,AP302,3D,14LO_0001,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0031,AP028650,AP302,3F,14LO_0003,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0032,AP028651,AP302,3G,14LO_0004,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0033,AP028652,AP302,3H,14LO_0005,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0034,AP028653,AP302,4A,14LO_0006,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0035,AP028654,AP302,4B,14LO_0008,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0036,AP028655,AP302,4C,14LO_0009,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0037,AP028656,AP302,4D,14LO_0010,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0038,AP028657,AP302,4E,14LO_0011,4478,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0039,AP028659,AP302,4G,14LM_0002,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0040,AP028662,AP302,5B,14LM_0005,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0041,AP028663,AP302,5C,14LM_0006,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0042,AP028664,AP302,5D,14LM_0007,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0043,AP028665,AP302,5E,14LM_0008,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0044,AP028666,AP302,5F,14LM_0009,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0045,AP028667,AP302,5G,14LM_0010,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0046,AP028668,AP302,5H,14LM_0011,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0047,AP028669,AP302,6A,14LM_0012,4478,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0060,AP028682,AP302,7F,PEN-BLA_0001,4478,Alosa,pseudoharengus,Maine,Penobscot River,Blackman Stream,BLAS,Northern New England,NNE
+s0061,AP028683,AP302,7G,PEN-BLA_0002,4478,Alosa,pseudoharengus,Maine,Penobscot River,Blackman Stream,BLAS,Northern New England,NNE
+s0062,AP028684,AP302,7H,PEN-BLA_0003,4478,Alosa,pseudoharengus,Maine,Penobscot River,Blackman Stream,BLAS,Northern New England,NNE
+s0063,AP028685,AP302,8A,PEN-BLA_0004,4478,Alosa,pseudoharengus,Maine,Penobscot River,Blackman Stream,BLAS,Northern New England,NNE
+s0064,AP028686,AP302,8B,PEN-BLA_0005,4478,Alosa,pseudoharengus,Maine,Penobscot River,Blackman Stream,BLAS,Northern New England,NNE
+s0065,AP028687,AP302,8C,PEN-BLA_0006,4478,Alosa,pseudoharengus,Maine,Penobscot River,Blackman Stream,BLAS,Northern New England,NNE
+s0066,AP028688,AP302,8D,AHUNY30,4478,Alosa,pseudoharengus,New York,Hudson River,Hudson River,HUDR,Mid-Atlantic,MDA
+s0067,AP028689,AP302,8E,AHUNY31,4478,Alosa,pseudoharengus,New York,Hudson River,Hudson River,HUDR,Mid-Atlantic,MDA
+s0068,AP028690,AP302,8F,AHUNY32,4478,Alosa,pseudoharengus,New York,Hudson River,Hudson River,HUDR,Mid-Atlantic,MDA
+s0069,AP028691,AP302,8G,AHUNY33,4478,Alosa,pseudoharengus,New York,Hudson River,Hudson River,HUDR,Mid-Atlantic,MDA
+s0070,AP028692,AP302,8H,AHUNY34,4478,Alosa,pseudoharengus,New York,Hudson River,Hudson River,HUDR,Mid-Atlantic,MDA
+s0071,AP028693,AP302,9A,AHUNY35,4478,Alosa,pseudoharengus,New York,Hudson River,Hudson River,HUDR,Mid-Atlantic,MDA
+s0072,AP028694,AP302,9B,11MIR_0007,4478,Alosa,pseudoharengus,Canada,Miramichi River,Miramichi River,MIRR,Canada,CAN
+s0073,AP028695,AP302,9C,11MIR_0008,4478,Alosa,pseudoharengus,Canada,Miramichi River,Miramichi River,MIRR,Canada,CAN
+s0074,AP028696,AP302,9D,11MIR_0009,4478,Alosa,pseudoharengus,Canada,Miramichi River,Miramichi River,MIRR,Canada,CAN
+s0075,AP028697,AP302,9E,11MIR_0010,4478,Alosa,pseudoharengus,Canada,Miramichi River,Miramichi River,MIRR,Canada,CAN
+s0076,AP028698,AP302,9F,ASAME4,4478,Alosa,pseudoharengus,Maine,Saco River,Saco River,SACR,Northern New England,NNE
+s0077,AP028700,AP302,9H,CP-7,4478,Alosa,pseudoharengus,Maryland,Choptank River,Choptank River,CHOR,Mid-Atlantic,MDA
+s0078,AP028701,AP302,10A,CP-8,4478,Alosa,pseudoharengus,Maryland,Choptank River,Choptank River,CHOR,Mid-Atlantic,MDA
+s0085,AP028710,AP302,11B,LS_0004,4478,Alosa,pseudoharengus,Wisconsin,Great Lakes,Lake Superior,LSUP,Great Lakes,GRL
+s0086,AP028712,AP302,11D,KLVA39,4478,Alosa,hybrid,North Carolina,Roanoke River,Roanoke River,ROAR,South Atlantic Gulf,SAG
+s0087,AP028714,AP302,11F,SL_0043,4478,Alosa,pseudoharengus,New York,Finger Lakes,Seneca Lake,SENL,Great Lakes,GRL
+s0088,AP028715,AP302,11G,CL_0008,4478,Alosa,pseudoharengus,New York,Finger Lakes,Canandaigua Lake,CANL,Great Lakes,GRL
+s0089,AP028721,AP302,12E,ASAME6,4478,Alosa,pseudoharengus,Maine,Saco River,Saco River,SACR,Northern New England,NNE
+s0091,AP028725,AP303,1A,LM_0013,5618,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0092,AP028728,AP303,1D,LM_0056,5618,Alosa,pseudoharengus,Michigan,Great Lakes,Lake Michigan,LMIC,Great Lakes,GRL
+s0093,AP028731,AP303,1G,LO_014,5618,Alosa,pseudoharengus,New York,Great Lakes,Lake Ontario,LONT,Great Lakes,GRL
+s0094,AP028734,AP303,2B,SAC_042,5618,Alosa,pseudoharengus,Maine,Saco River,Saco River,SACR,Northern New England,NNE

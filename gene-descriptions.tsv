@@ -1,0 +1,39 @@
+Gene	Official Full Name	Gene Type	Summary
+pvalb4	parvalbumin 4	protein coding	predicted to enable calcium ion binding activity
+			predicted to be activate in cytoplasm and nucleus
+			is expressed in musculature system; myotome; and pectoral fin muscle
+pvalb8	parvalbumin 8	protein coding	predicted to enable calcium ion binding activity
+			predicted to be active in cytoplasm and nucleus
+			"is expressed in several structures, including adenohypophyseal placode; epidermal cell; hypophysis; integument; and sensory system"
+			othologous to several human genes including OCM2
+lmtk2	lemur tyrosine kinase 2	protein coding	predicted to enable ATP binding activity and protein kinase activity
+			predicted to be involved in axogenesis; positive regulation of kinase activity; and transmembrane receptor protein tyrosine kinase signaling pathway
+			predicted to act upstream of or within protein phosphorylation
+			predicted to be part of receptor complex
+			predicted to be integral component of plasma membrane
+			orthologous to human LMTK2
+aimp2	aminoacyl tRNA synthetase complex interacting multifunctional protein 2	protein coding	predicted to be involved in positive regulation of aminoacyl-tRNA ligase activity
+			predicted to act upstream of or within apoptotic process and cell differentiation
+			predicted to be located in cytodol and nucleus
+			predicted to be part of aminoacyl-tRNA synthetase multienzyme complex
+			"is expressed in several structures, including alar plate midbrain region; head; immature eye; midbrain; and musculature system"
+			"human ortholog of this gene implicated in hypomyelinating leukodystrophy, a group of neurodevelopmental disorders that affect proper formation of the myelin sheath in the central nervous system"
+myl7	"myosin, light chain 7, regulatory"	protein coding	predicted to enable calcium ion binding activity
+			"acts upstream of or within several processes, including cardiac muscle cell proliferationl heart contraction; and myofibril assembly"
+			"is expressed in several structures, including corpsucles of Stannis; heart primordium; mesoderm; muscle; and pericardial region"
+			orthologous to human MYL7
+cacng4b	"calcium channel, voltage-dependent, gamma subunit 4b"	protein coding	predicted to enable channel regulator activity and voltage-gated calcium channel activity
+			"predicted to be involved in serveal processes, including neurotransmitter receptor internalization; neurotransmitter receptor transport, postsynaptic endosome to lysosome; and postsynaptic neurotransmitter receptor diffusion trapping"
+			predicted to act upstream of or within calcium ion transmembrane transport and regulation of ion transmembrane transport
+			predicted to be located in membrane
+			predicted to be integral component of membrane
+			predicted to be part of AMPA glutamate receptor complex
+			predicted to be active in postsynaptic density membrane
+			orthologous to human CACNG4
+cacng1b	"calcium channel, voltage-dependent, gamma subunit 1b"	protein coding	predicted to enable calcium channel regulator activity
+			predicted to be involved in regulation of calcium ion transmembrane transport via high voltage-gated calcium channel
+			predicted to act upstream of or within calcium ion transmembrane transport and regulation of ion transmembrane transport
+			predicted to be located in plasma membrane
+			predicted to be integral component of membrane
+			predicted to be part of L-type voltage-gated calcium channel complex
+			"human ortholog(s) of this gene implicated in malignant hyperthermia, a severe reaction to certain drugs used for anesthesia with fast rise in body temperature, rigid muscles or spasms, and rapid heart rate"

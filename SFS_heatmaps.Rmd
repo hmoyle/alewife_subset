@@ -1,0 +1,60 @@
+---
+title: "Chromosome 3 (NC_055959.1) SFS"
+output: html_notebook
+---
+
+
+```{r}
+data <- scan("data/winsfs/SANAD--x--NANAD.ml", skip = 1) %>%
+  matrix(nrow = 21, ncol = 27)
+heatmap(data,
+        scale = "row",
+        Colv = NA,
+        Rowv = NA,
+        main = "Chr3 SANAD vs. NANAD")
+
+data <- scan("data/winsfs_folded/SANAD--x--NANAD.ml") %>%
+  matrix(nrow = 21, ncol = 27)
+heatmap(data,
+        scale = "row",
+        Colv = NA,
+        Rowv = NA,
+        main = "Folded Chr3 SANAD vs. NANAD")
+```
+
+```{r}
+data <- scan("data/winsfs/GRL--x--NANAD.ml", skip = 1) %>%
+  matrix(nrow = 85, ncol = 27)
+heatmap(data,
+        scale = "row",
+        Colv = NA,
+        Rowv = NA,
+        main = "Chr3 GRL vs. NANAD")
+
+data <- scan("data/winsfs_folded/GRL--x--NANAD.ml") %>%
+  matrix(nrow = 85, ncol = 27)
+heatmap(data,
+        scale = "row",
+        Colv = NA,
+        Rowv = NA,
+        main = "Folded Chr3 GRL vs. NANAD")
+```
+
+```{r}
+data <- scan("data/winsfs/GRL--x--SANAD.ml", skip = 1) %>%
+  matrix(nrow = 85, ncol = 21)
+heatmap(data,
+        scale = "row",
+        Colv = NA,
+        Rowv = NA,
+        main = "Chr3 GRL vs. SANAD")
+
+data <- scan("data/winsfs_folded/GRL--x--SANAD.ml") %>%
+  matrix(nrow = 85, ncol = 21)
+heatmap(data,
+        scale = "row",
+        Colv = NA,
+        Rowv = NA,
+        main = "Folded Chr3 GRL vs. SANAD")
+```
+
